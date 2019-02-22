@@ -1,0 +1,6 @@
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/LIB/bin/Debug/LIB.dll
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/LIB/bin/Debug/LIB.pdb
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/LIB/obj/Debug/LIB.dll
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/LIB/obj/Debug/LIB.pdb
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/LIB/obj/Debug/LIB.csprojResolveAssemblyReference.cache

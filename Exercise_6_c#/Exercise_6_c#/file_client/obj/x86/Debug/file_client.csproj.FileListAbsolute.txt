@@ -1,0 +1,7 @@
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/file_client.exe
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/file_client.pdb
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/LIB.dll
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/bin/Debug/LIB.pdb
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.csproj.CoreCompileInputs.cache
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.exe
+/root/IKN6/Exercise_6_c#/Exercise_6_c#/file_client/obj/x86/Debug/file_client.pdb
